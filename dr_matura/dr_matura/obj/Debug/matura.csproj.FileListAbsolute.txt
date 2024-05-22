@@ -1,0 +1,13 @@
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\bin\Debug\WindowsFormsApp8.exe
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\matura.csproj.AssemblyReference.cache
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.Form4.resources
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\matura.csproj.GenerateResource.cache
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\matura.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.exe
+C:\Users\Ucenik.PRVABEOGIM\source\repos\dr_matura\dr_matura\obj\Debug\WindowsFormsApp8.pdb
